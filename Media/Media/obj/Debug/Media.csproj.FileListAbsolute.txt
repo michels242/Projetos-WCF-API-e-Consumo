@@ -1,0 +1,7 @@
+C:\Users\miche\Desktop\projeto\Media\Media\bin\Media.dll.config
+C:\Users\miche\Desktop\projeto\Media\Media\bin\Media.dll
+C:\Users\miche\Desktop\projeto\Media\Media\bin\Media.pdb
+C:\Users\miche\Desktop\projeto\Media\Media\obj\Debug\Media.csproj.AssemblyReference.cache
+C:\Users\miche\Desktop\projeto\Media\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\projeto\Media\Media\obj\Debug\Media.dll
+C:\Users\miche\Desktop\projeto\Media\Media\obj\Debug\Media.pdb
